@@ -1,3 +1,4 @@
+test
 ## reinit providers
 terraform init -upgrade
 

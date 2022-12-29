@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "levpa"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "test"
     }
   }
 

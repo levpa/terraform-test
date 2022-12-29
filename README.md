@@ -19,3 +19,4 @@ You must have an AWS account and provide your AWS Access Key ID and AWS Secret A
 The values for `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` should be saved as environment variables on your workspace.
  add some words to the end 
  add some words to the end 
+some new text 

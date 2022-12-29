@@ -1,3 +1,4 @@
+## reinit providers
 terraform init -upgrade
 
 # Terraform Cloud Getting Started Guide Example
